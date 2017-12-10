@@ -1,0 +1,11 @@
+/Users/kirkwiebe/Projects/Manticore/Manticore/bin/Debug/netcoreapp2.0/Manticore.deps.json
+/Users/kirkwiebe/Projects/Manticore/Manticore/bin/Debug/netcoreapp2.0/Manticore.runtimeconfig.json
+/Users/kirkwiebe/Projects/Manticore/Manticore/bin/Debug/netcoreapp2.0/Manticore.runtimeconfig.dev.json
+/Users/kirkwiebe/Projects/Manticore/Manticore/bin/Debug/netcoreapp2.0/Manticore.dll
+/Users/kirkwiebe/Projects/Manticore/Manticore/bin/Debug/netcoreapp2.0/Manticore.pdb
+/Users/kirkwiebe/Projects/Manticore/Manticore/obj/Debug/netcoreapp2.0/Manticore.csprojResolveAssemblyReference.cache
+/Users/kirkwiebe/Projects/Manticore/Manticore/obj/Debug/netcoreapp2.0/Manticore.csproj.CoreCompileInputs.cache
+/Users/kirkwiebe/Projects/Manticore/Manticore/obj/Debug/netcoreapp2.0/Manticore.AssemblyInfoInputs.cache
+/Users/kirkwiebe/Projects/Manticore/Manticore/obj/Debug/netcoreapp2.0/Manticore.AssemblyInfo.cs
+/Users/kirkwiebe/Projects/Manticore/Manticore/obj/Debug/netcoreapp2.0/Manticore.dll
+/Users/kirkwiebe/Projects/Manticore/Manticore/obj/Debug/netcoreapp2.0/Manticore.pdb
